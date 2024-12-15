@@ -1,6 +1,6 @@
 [![MasterHead](https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=612x612&w=0&k=20&c=9JX_Uhk0YSIqakQEXiSjo5NutvD4C8XOGIMc1cGRhiM=)](https://github.com/jimmy-here)
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688467501707?e=1732147200&v=beta&t=yP34jVfLb6jBL3DxpjmGbRLBcm2HLL7vOXacYvrXR04">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmy-here&label=Profile%20views&color=0e75b6&style=flat" alt="jimmy-here" /> </p>
